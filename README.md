@@ -1,5 +1,7 @@
 # Project Title: Insurance Data Analysis Dashboard
 
+# Link : https://app.powerbi.com/groups/20236ac0-74a1-45d1-8ae7-363bc0b43c93/reports/4b07e279-7a5c-43ba-a9b3-5653f6bfc266/3c68bd31730ccc303713?experience=power-bi
+
 # Description : 
 This project analyzes insurance data to provide insights into bookings, customer ratings, and overall performance metrics using Power BI. The dashboard aims to enhance decision-making for insurance companies.
 
